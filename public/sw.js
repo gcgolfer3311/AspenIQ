@@ -3,7 +3,7 @@
 // All client/lead data lives in localStorage, which persists offline already;
 // this worker's only job is making sure the page itself is available offline.
 
-var CACHE_NAME = 'aspeniq-shell-v4';
+var CACHE_NAME = 'aspeniq-shell-v5';
 var APP_SHELL = [
   './',
   './index.html',
